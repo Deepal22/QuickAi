@@ -1,10 +1,11 @@
-import express from'express';
-import cors from 'cors';
-import 'dotenv/config';
+import express from'express'
+import cors from 'cors'
+import 'dotenv/config'
 import { clerkMiddleware, requireAuth } from '@clerk/express'
 import aiRouter from './routes/aiRoutes.js';
-import connectCloudinary from './configs/cloudinary.js';
-import userRouter from './Routes/userRoutes.js';
+import userRouter from './routes/userRoutes.js';
+import connectCloudinary from './configs/cloudinary.js'
+
 
 const app = express()
 
