@@ -39,21 +39,40 @@ From writing blogs and analyzing resumes to generating AI images and removing ba
 - **Deployment:** Vercel  
 
 ---
+🙌 Acknowledgements
 
+OpenAI
+ for powering text & image generation.
+Cloudinary
+ for image storage and transformations.
+Vercel
+ for seamless deployment.
+ 
 ## 🚀 Getting Started  
 
-Clone the repo, install dependencies, set up environment variables, and start the development server — all in one go:  
+Clone the repo, install dependencies, set up environment variables, run the server, and acknowledge the amazing tools 🚀  
 
 ```bash
-git clone https://github.com/Deepal22/quickai.git
+# Clone the repo
+git clone https://github.com/yourusername/quickai.git
 cd quickai
+
+# Install dependencies
 npm install
+
+# Setup environment variables
 echo "OPENAI_API_KEY
-Postgres_URL
+Postgresql_URL
 CLOUDINARY_CLOUD_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET > .env
+
+# Run the development server
 npm run dev
 
-
-
+# 🙌 Acknowledgements
+# OpenAI       -> powering text & image generation
+# Cloudinary   -> media storage and transformations
+# Vercel       -> seamless deployment
+# MongoDB      -> reliable database management
+# Tailwind CSS -> modern, responsive UI styling
