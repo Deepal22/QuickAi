@@ -54,7 +54,7 @@ Clone the repo, install dependencies, set up environment variables, run the serv
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/quickai.git
+git clone https://github.com/Deepal22/quickai.git
 cd quickai
 
 # Install dependencies
