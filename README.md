@@ -74,5 +74,5 @@ npm run dev
 # OpenAI       -> powering text & image generation
 # Cloudinary   -> media storage and transformations
 # Vercel       -> seamless deployment
-# MongoDB      -> reliable database management
+# Postgresql   -> reliable database management
 # Tailwind CSS -> modern, responsive UI styling
